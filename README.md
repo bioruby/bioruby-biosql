@@ -42,6 +42,20 @@ Or install it yourself as:
 
     $ gem install bio-biosql
 
+## Requirements
+
+In addition to the dependency written in Gemfile,
+at least one ActiveRecord adapter will be needed.
+
+* [pg](http://rubygems.org/gems/pg)
+* [sqlite-ruby](http://rubygems.org/gems/sqlite-ruby)
+* [sqlite3](http://rubygems.org/gems/sqlite3)
+* [mysql](http://rubygems.org/gems/mysql)
+* [mysql2](http://rubygems.org/gems/mysql2)
+* [activerecord-oracle_enhanced-adapter](http://rubygems.org/gems/activerecord-oracle_enhanced-adapter)
+
+TODO: Please test Bio::SQL with above adapters.
+
 ## Usage
 
 TODO: Write usage instructions here
