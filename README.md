@@ -2,7 +2,7 @@
 
 IMPORTANT NOTICE: This package is preliminary experimental state.
 It may not work as expected.
-Please fix bugs and report them to us.
+Please fix bugs and report to us.
 
 bio-biosql is a [BioSQL](http://biosql.org/) plugin for
 [BioRuby](http://bioruby.org/), an open source bioinformatics
@@ -19,7 +19,7 @@ own gem as part of an effort to
 BioRuby. bio-biosql and many more plugins are available at
 [biogems.info](http://www.biogems.info/).
 
-Thi code was initially written by Toshiaki Katayama.
+This code was initially written by Toshiaki Katayama.
 Raoul Jean Pierre Bonnal greatly improved the code with introducing
 ActiveRecord. For details of development, see
 [github.com/helios/bioruby](https://github.com/helios/bioruby),
